@@ -1,2 +1,13 @@
-# sonaremin-rncbc-dockerbuild
-docker based build for padthv1 and synthv1 from rncbc.org for inclusion into the sonaremin
+order of things:
+
+docker-buildenv.sh
+prepare.sh
+buildenv.sh
+
+then inside:
+
+/compile/build.sh
+
+afterwards:
+
+the result will be padthv1-synthv1-<arch>.tar.gz in compile dir
