@@ -1,4 +1,4 @@
-order of things:
+# order of things to build:
 
 docker-buildenv.sh
 prepare.sh
